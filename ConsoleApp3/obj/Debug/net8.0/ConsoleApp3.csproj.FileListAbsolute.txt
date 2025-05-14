@@ -1,0 +1,14 @@
+D:\SUMMER2025\ConsoleApp1\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.exe
+D:\SUMMER2025\ConsoleApp1\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.deps.json
+D:\SUMMER2025\ConsoleApp1\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.runtimeconfig.json
+D:\SUMMER2025\ConsoleApp1\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.dll
+D:\SUMMER2025\ConsoleApp1\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.pdb
+D:\SUMMER2025\ConsoleApp1\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUMMER2025\ConsoleApp1\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\SUMMER2025\ConsoleApp1\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfo.cs
+D:\SUMMER2025\ConsoleApp1\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\SUMMER2025\ConsoleApp1\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.dll
+D:\SUMMER2025\ConsoleApp1\ConsoleApp3\obj\Debug\net8.0\refint\ConsoleApp3.dll
+D:\SUMMER2025\ConsoleApp1\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.pdb
+D:\SUMMER2025\ConsoleApp1\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.genruntimeconfig.cache
+D:\SUMMER2025\ConsoleApp1\ConsoleApp3\obj\Debug\net8.0\ref\ConsoleApp3.dll
