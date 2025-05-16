@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SUMMER2025\\ConsoleApp1\\DemohttpClient\\DemohttpClient.csproj",
+      "projectUniqueName": "C:\\Users\\ngong\\source\\repos\\PRN222_SU25\\DemohttpClient\\DemohttpClient.csproj",
       "projectName": "DemohttpClient",
-      "projectPath": "D:\\SUMMER2025\\ConsoleApp1\\DemohttpClient\\DemohttpClient.csproj",
+      "projectPath": "C:\\Users\\ngong\\source\\repos\\PRN222_SU25\\DemohttpClient\\DemohttpClient.csproj",
       "packagesPath": "C:\\Users\\ngong\\.nuget\\packages\\",
-      "outputPath": "D:\\SUMMER2025\\ConsoleApp1\\DemohttpClient\\obj\\",
+      "outputPath": "C:\\Users\\ngong\\source\\repos\\PRN222_SU25\\DemohttpClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
