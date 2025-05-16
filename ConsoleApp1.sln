@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36109.1 d17.14
+VisualStudioVersion = 17.14.36109.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{7470A050-3B33-41F8-9A91-CD1895A035A5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{98689E93-7991-42F8-BAB2-BEA1A3099C04}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemohttpClient", "DemohttpClient\DemohttpClient.csproj", "{5D952634-95E1-46C1-87FA-D6F986194EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{67A1E0AA-A84D-4D52-A1F4-A7E4F43172A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{5D952634-95E1-46C1-87FA-D6F986194EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D952634-95E1-46C1-87FA-D6F986194EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D952634-95E1-46C1-87FA-D6F986194EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A1E0AA-A84D-4D52-A1F4-A7E4F43172A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A1E0AA-A84D-4D52-A1F4-A7E4F43172A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A1E0AA-A84D-4D52-A1F4-A7E4F43172A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A1E0AA-A84D-4D52-A1F4-A7E4F43172A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
