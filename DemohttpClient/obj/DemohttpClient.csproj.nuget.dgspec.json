@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ngong\\source\\repos\\PRN222_SU25\\DemohttpClient\\DemohttpClient.csproj": {}
+    "D:\\SUMMER2025\\PRN222\\PRN222_SU25\\DemohttpClient\\DemohttpClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ngong\\source\\repos\\PRN222_SU25\\DemohttpClient\\DemohttpClient.csproj": {
+    "D:\\SUMMER2025\\PRN222\\PRN222_SU25\\DemohttpClient\\DemohttpClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngong\\source\\repos\\PRN222_SU25\\DemohttpClient\\DemohttpClient.csproj",
+        "projectUniqueName": "D:\\SUMMER2025\\PRN222\\PRN222_SU25\\DemohttpClient\\DemohttpClient.csproj",
         "projectName": "DemohttpClient",
-        "projectPath": "C:\\Users\\ngong\\source\\repos\\PRN222_SU25\\DemohttpClient\\DemohttpClient.csproj",
+        "projectPath": "D:\\SUMMER2025\\PRN222\\PRN222_SU25\\DemohttpClient\\DemohttpClient.csproj",
         "packagesPath": "C:\\Users\\ngong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ngong\\source\\repos\\PRN222_SU25\\DemohttpClient\\obj\\",
+        "outputPath": "D:\\SUMMER2025\\PRN222\\PRN222_SU25\\DemohttpClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
